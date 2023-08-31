@@ -16,7 +16,6 @@ function App() {
       <Developer/>
       <Contact/>
       <Footer/>
-      <Pappu/>
     </div>
   );
 }
