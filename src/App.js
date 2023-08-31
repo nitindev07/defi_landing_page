@@ -5,6 +5,7 @@ import Developer from './components/Developer';
 import Footer from './components/Footer';
 import Hero from './components/Hero';
 import Navbar from './components/Navbar';
+import Pappu from './components/Pappu';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Developer/>
       <Contact/>
       <Footer/>
+      <Pappu/>
     </div>
   );
 }
